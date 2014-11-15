@@ -1,5 +1,7 @@
 ## f**ks mentioned on twitter are displayed in real time on google maps.
 
+![map example](http://i.imgur.com/8C8OkYJ.png "fmap")
+
 1. node.js
 2. express.js
   * jade
